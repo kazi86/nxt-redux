@@ -23,7 +23,6 @@ import {buyCake, buyIceCream, store} from "@/app/redux/store";
 
      },[])
 
-
     return <>
 
         <div>
